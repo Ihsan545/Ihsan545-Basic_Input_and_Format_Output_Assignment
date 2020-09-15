@@ -1,7 +1,7 @@
 """
 Program: test.py
-Author: Ghulam Omar
-Last date modified: 09/10/19
+Author: Ihsanullah Anwary
+Last date modified: 09/14/2020
 This tests the program for average_score.py.
 """
 
